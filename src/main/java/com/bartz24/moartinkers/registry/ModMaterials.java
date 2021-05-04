@@ -398,7 +398,7 @@ public class ModMaterials {
                     .setBow(0.98f, 5.17f, 9.5f)
                     .build(),
             new MaterialRegistration.MaterialRegistrationBuilder()
-                    .setIdentifier("tungsten").setColor(0x464659).setTemp(2100)
+                    .setIdentifier("tungstensteel").setColor(0x214280).setTemp(2100)
                     .setHead(1120, 8.97f, 14.53f, HarvestLevels.COBALT)
                     .setHandle(2.42f, 320).setExtra(200)
                     .setBow(0.65f, 4.12f, 13f)
